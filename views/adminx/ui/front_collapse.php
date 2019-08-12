@@ -3,7 +3,7 @@
  * @var $this UiController
  * @var $error array
  *
- * @author Putra Sudaryanto <putra@sudaryanto.id>
+ * @author Putra Sudaryanto <putra@ommu.co>
  * @copyright Copyright (c) 2017 Ommu Platform (opensource.ommu.co)
  * @link https://github.com/OmmuThemes/adminX-hospital
  * @contact (+62)856-299-4114

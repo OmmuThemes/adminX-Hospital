@@ -9,7 +9,7 @@
  * @license http://www.yiiframework.com/license/
  * 
  * 
- * @modify Putra Sudaryanto <putra@sudaryanto.id>
+ * @modify Putra Sudaryanto <putra@ommu.co>
  * @contact (+62)856-299-4114
  * @copyright Copyright (c) 2017 Ommu Platform (opensource.ommu.co)
  * @link https://github.com/OmmuThemes/adminX-hospital
